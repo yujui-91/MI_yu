@@ -7,3 +7,5 @@
 *.csv
 
 *.npz
+
+*.json
